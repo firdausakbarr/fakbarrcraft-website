@@ -1,0 +1,16 @@
+export {default as fakbarrWebsite} from '@/assets/medias/fakbarrcraft-website.png';
+export {default as logoBlack} from '@/assets/medias/fakbarcraft-logo-black.svg';
+export {default as logoWhite} from '@/assets/medias/fakbarcraft-logo-white.svg';
+export {default as bgDark} from '@/assets/medias/bg-dark.jpg';
+export {default as bgLight} from '@/assets/medias/bg-light.jpg';
+export {default as blackPaper} from '@/assets/medias/black.png';
+export {default as whitePaper} from '@/assets/medias/white.png';
+export {default as caseStudy1} from '@/assets/medias/case_study_1.png';
+export {default as caseStudy2} from '@/assets/medias/case_study_1.png';
+export {default as caseStudy3} from '@/assets/medias/case_study_3.png';
+export {default as caseStudy4} from '@/assets/medias/case_study_4.png';
+export {default as workThumbnail1} from '@/assets/medias/work_thumbnail_1.jpg';
+export {default as workThumbnail2} from '@/assets/medias/work_thumbnail_2.jpg';
+export {default as workThumbnail3} from '@/assets/medias/work_thumbnail_3.jpg';
+export {default as workThumbnail4} from '@/assets/medias/work_thumbnail_4.jpg';
+export {default as collageLogo} from '@/assets/medias/firdaus-collage.png';
